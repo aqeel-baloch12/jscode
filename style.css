@@ -1,0 +1,32 @@
+body{
+
+    background-color: chocolate;
+   
+}
+   
+.bag{
+
+background-color:lightgreen ;
+border: none;
+border-radius: 5px;
+margin: 5px 15px;
+padding: 5px 15px;
+
+}
+.bag2{
+
+
+    border: 2px solid black;
+    border-radius: 5px;
+    text-transform:uppercase;
+}
+.bag3{
+
+    background-color:lightgreen ;
+    border: none;
+    border-radius: 5px;
+    margin: 5px 15px;
+    padding: 5px 15px;
+    
+    
+    }
